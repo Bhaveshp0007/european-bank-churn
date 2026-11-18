@@ -1,7 +1,7 @@
-numpy>=1.26,<3
-pandas>=2.2,<3
-scipy>=1.13,<2
+numpy
+pandas
+scipy
 scikit-learn==1.6.1
-joblib>=1.4,<2
-matplotlib>=3.9,<4
-streamlit>=1.39,<2
+joblib
+matplotlib
+streamlit
